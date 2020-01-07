@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Presentation", "0-Presentation", "{C9DA29BA-1097-4F85-98B8-E445E091A91E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{FD2F747E-AC0C-4075-AE9A-1FD3DFBB8EFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Infra", "3-Infra", "{E3EA088B-6DD7-4662-A3E2-1805B2003508}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FestEventosInfra", "FestEventosInfra\FestEventosInfra.csproj", "{013622A7-AC56-4D76-BCAD-0693D36ABAF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FestEventosDomain", "FestEventosDomain\FestEventosDomain.csproj", "{F68C6CA8-8BF8-4FF9-ADAA-CFBBFC614B6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FestEventosService", "FestEventosService\FestEventosService.csproj", "{BF0E3056-A2FD-4BA3-BC88-C28BCA0366B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Teste", "4-Teste", "{6B353CC0-5BC1-4E72-8663-FCFC929EAF32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FestEventos.Teste", "FestEventos.Teste\FestEventos.Teste.csproj", "{E1932F5F-4335-4576-9F77-23D9B663DE14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013622A7-AC56-4D76-BCAD-0693D36ABAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013622A7-AC56-4D76-BCAD-0693D36ABAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013622A7-AC56-4D76-BCAD-0693D36ABAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013622A7-AC56-4D76-BCAD-0693D36ABAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68C6CA8-8BF8-4FF9-ADAA-CFBBFC614B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68C6CA8-8BF8-4FF9-ADAA-CFBBFC614B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68C6CA8-8BF8-4FF9-ADAA-CFBBFC614B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68C6CA8-8BF8-4FF9-ADAA-CFBBFC614B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0E3056-A2FD-4BA3-BC88-C28BCA0366B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0E3056-A2FD-4BA3-BC88-C28BCA0366B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0E3056-A2FD-4BA3-BC88-C28BCA0366B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0E3056-A2FD-4BA3-BC88-C28BCA0366B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1932F5F-4335-4576-9F77-23D9B663DE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1932F5F-4335-4576-9F77-23D9B663DE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1932F5F-4335-4576-9F77-23D9B663DE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1932F5F-4335-4576-9F77-23D9B663DE14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{013622A7-AC56-4D76-BCAD-0693D36ABAF0} = {E3EA088B-6DD7-4662-A3E2-1805B2003508}
+		{F68C6CA8-8BF8-4FF9-ADAA-CFBBFC614B6B} = {FD2F747E-AC0C-4075-AE9A-1FD3DFBB8EFF}
+		{BF0E3056-A2FD-4BA3-BC88-C28BCA0366B6} = {C9DA29BA-1097-4F85-98B8-E445E091A91E}
+		{E1932F5F-4335-4576-9F77-23D9B663DE14} = {6B353CC0-5BC1-4E72-8663-FCFC929EAF32}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7974C732-2427-41A7-AE4A-0113D30AEAE9}
+	EndGlobalSection
+EndGlobal

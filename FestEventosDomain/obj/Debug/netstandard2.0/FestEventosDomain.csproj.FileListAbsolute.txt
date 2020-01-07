@@ -1,0 +1,8 @@
+D:\@Infnet\trabalho\FestEventos\FestEventosDomain\bin\Debug\netstandard2.0\FestEventosDomain.deps.json
+D:\@Infnet\trabalho\FestEventos\FestEventosDomain\bin\Debug\netstandard2.0\FestEventosDomain.dll
+D:\@Infnet\trabalho\FestEventos\FestEventosDomain\bin\Debug\netstandard2.0\FestEventosDomain.pdb
+D:\@Infnet\trabalho\FestEventos\FestEventosDomain\obj\Debug\netstandard2.0\FestEventosDomain.csprojAssemblyReference.cache
+D:\@Infnet\trabalho\FestEventos\FestEventosDomain\obj\Debug\netstandard2.0\FestEventosDomain.AssemblyInfoInputs.cache
+D:\@Infnet\trabalho\FestEventos\FestEventosDomain\obj\Debug\netstandard2.0\FestEventosDomain.AssemblyInfo.cs
+D:\@Infnet\trabalho\FestEventos\FestEventosDomain\obj\Debug\netstandard2.0\FestEventosDomain.dll
+D:\@Infnet\trabalho\FestEventos\FestEventosDomain\obj\Debug\netstandard2.0\FestEventosDomain.pdb

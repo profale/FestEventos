@@ -1,0 +1,13 @@
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\bin\Debug\netstandard2.0\FestEventosInfra.deps.json
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\bin\Debug\netstandard2.0\FestEventosInfra.dll
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\bin\Debug\netstandard2.0\FestEventosInfra.pdb
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\bin\Debug\netstandard2.0\FestEventosDomain.dll
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\bin\Debug\netstandard2.0\FestEventosDomain.pdb
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\obj\Debug\netstandard2.0\FestEventosInfra.csprojAssemblyReference.cache
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\obj\Debug\netstandard2.0\FestEventosInfra.Properties.Resources.resources
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\obj\Debug\netstandard2.0\FestEventosInfra.csproj.GenerateResource.cache
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\obj\Debug\netstandard2.0\FestEventosInfra.AssemblyInfoInputs.cache
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\obj\Debug\netstandard2.0\FestEventosInfra.AssemblyInfo.cs
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\obj\Debug\netstandard2.0\FestEventosInfra.csproj.CopyComplete
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\obj\Debug\netstandard2.0\FestEventosInfra.dll
+D:\@Infnet\trabalho\FestEventos\FestEventosInfra\obj\Debug\netstandard2.0\FestEventosInfra.pdb
